@@ -1,2 +1,2 @@
 # Mercadinho
-Um Mercadinho em Spring framework 
+Um Mercadinho Online feito em Spring framework 
